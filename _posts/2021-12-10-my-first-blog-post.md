@@ -1,6 +1,6 @@
 ---
 title: "Cloud Services"
-date:   2021-12-10
+date: 2021-12-10
 ---
 
 Today we will discuss about the CLoud Services : 
